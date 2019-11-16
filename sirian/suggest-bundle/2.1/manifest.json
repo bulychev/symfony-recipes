@@ -1,0 +1,14 @@
+{
+    "aliases": [
+        "siriansuggest",
+        "suggest"
+    ],
+    "bundles": {
+        "Sirian\\SuggestBundle\\SirianSuggestBundle": [
+            "all"
+        ]
+    },
+    "copy-from-recipe": {
+        "config/": "%CONFIG_DIR%/"
+    }
+}
