@@ -1,0 +1,27 @@
+sirian_suggest:
+    form_options:
+        widget: select2_v3
+        attr:
+            placeholder: "Search..."
+#    orm:
+#        category:
+#            class: "App\Entity\Category"
+#            property: name
+#
+#        user:
+#            class: "App\Entity\User"
+#            property: username
+#            search:
+#                email: ~
+#                username: ~
+#    odm:
+#        category:
+#            class: "App\Document\Category"
+#            property: name
+#
+#        user:
+#            class: "App\Document\User"
+#            property: username
+#            search:
+#                email: ~
+#                username: ~
