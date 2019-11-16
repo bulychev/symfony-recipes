@@ -12,8 +12,8 @@ sirian_suggest:
 #            class: "App\Entity\User"
 #            property: username
 #            search:
-#                email: ~
-#                username: ~
+#                email: null
+#                username: null
 #    odm:
 #        category:
 #            class: "App\Document\Category"
@@ -23,5 +23,5 @@ sirian_suggest:
 #            class: "App\Document\User"
 #            property: username
 #            search:
-#                email: ~
-#                username: ~
+#                email: null
+#                username: null
